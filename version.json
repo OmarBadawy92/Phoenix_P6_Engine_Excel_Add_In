@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.0.0/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.0.0/p6_core.dll",
-  "release_notes": "Added Many new powerful features , see website"
+  "version": "2.1.0",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.1.0/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.1.0/p6_core.dll",
+  "release_notes": "Added Delay Analysis + Material & Engineering generate Activities with Cycle + Add blanks see website"
 }
