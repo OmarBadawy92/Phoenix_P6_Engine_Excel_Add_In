@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.1.1/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.1.1/p6_core.dll",
-  "release_notes": "Claim Generator Narative in Time Impact / Window Analysis"
+  "version": "2.1.3",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.1.3/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.1.3/p6_core.dll",
+  "release_notes": "Half Step , Project Blueprint, Customize Colors , Paste to Filered Cells"
 }
