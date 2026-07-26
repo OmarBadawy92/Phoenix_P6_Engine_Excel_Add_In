@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.3.0/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v2.3.0/p6_core.dll",
-  "release_notes": "New Feature - Reconstruct missing Updates"
+  "version": "3.0.0",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.0.0/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.0.0/p6_core.dll",
+  "release_notes": "New Features: Fast Excel Import/Export - Calendar Change , Bug Fixes"
 }
