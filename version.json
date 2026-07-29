@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.1.0/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.1.0/p6_core.dll",
-  "release_notes": "Half Step in Database , Fixed Planned Value calculation"
+  "version": "3.1.1",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.1.1/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.1.1/p6_core.dll",
+  "release_notes": "3.1.0 added Half Step in Database , Fixed Planned Value calculation 3.1.1 new security level "
 }
