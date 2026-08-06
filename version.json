@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.2.1/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.2.1/p6_core.dll",
-  "release_notes": "S-Curve works smarter with many selections "
+  "version": "3.2.3",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.2.3/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.2.3/p6_core.dll",
+  "release_notes": "New Feature - Load existing Resource from XER / Database in Resource Database menu + Enhancement + Bug Fixes "
 }
