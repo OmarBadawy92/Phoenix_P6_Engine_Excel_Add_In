@@ -1,6 +1,6 @@
 {
-  "version": "3.2.3",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.2.3/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v3.2.3/p6_core.dll",
-  "release_notes": "New Feature - Load existing Resource from XER / Database in Resource Database menu + Enhancement + Bug Fixes "
+  "version": "4.0.0",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v4.0.0/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v4.0.0/p6_core.dll",
+  "release_notes": "New Feature - Recovery Schedule + Schedule GaP + Enhancement + Bug Fixes "
 }
