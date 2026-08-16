@@ -1,7 +1,7 @@
 {
-  "version": "4.1.0",
-  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v4.1.0/PhoenixP6Engine.xll",
-  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v4.1.0/p6_core.dll",
+  "version": "4.1.1",
+  "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v4.1.1/PhoenixP6Engine.xll",
+  "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v4.1.1/p6_core.dll",
   "release_notes": "New Feature: Assign and Distribute Resource, Enhancements & Bug Fixes",
-  "release_notes_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/tag/v4.1.0"
+  "release_notes_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/tag/v4.1.1"
 }
