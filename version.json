@@ -2,6 +2,8 @@
   "version": "5.0.2",
   "download_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v5.0.2/PhoenixP6Engine.xll",
   "native_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v5.0.2/p6_core.dll",
+  "download_url_x86": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v5.0.2/PhoenixP6Engine32.xll",
+  "native_url_x86": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/download/v5.0.2/p6_core-x86.dll",
   "release_notes": "5.0.2 Enhancement & Bug Fixes, 5.0.1 UI Fixes & V5.0.0 New Features Enhancement & Bug Fixes - See in Version button what is new after update",
   "release_notes_url": "https://github.com/OmarBadawy92/Phoenix_P6_Engine_Excel_Add_In/releases/tag/v5.0.2"
 }
